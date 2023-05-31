@@ -1,0 +1,21 @@
+/* Estilo general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Contenedor del saludo */
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilo del saludo */
+#saludo {
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    color: white;
+}
